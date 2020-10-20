@@ -6,13 +6,12 @@
   "author": {
     "name": "Grant Moyer",
     "email": "grantmoyer@gmail.com",
-    "url": "https://github.com/GrantMoyer/"
+    "url": "https://github.com/GrantMoyer"
   },
   "resources": {
-    "js": "ynp6m6o9J6KTSl3pMmSwpIfe2/O7YcAS+cN9ZfzTeyhHDoEwYn/b0ktD7Pl37Az5RFN+ZlKo4/w5xO7IcBziq8+pSjT+3ydXHw9yHtwCagjePjb5/bomnez7Jrf1ETT0erlNrp36SKKU0+P45DG0d76djSJ3oZ69h5RHUZQ/Pcm0WzOYAu5I+gEMBNqscKuXbLwYdoDmN64/a++HoFyC0uQ1zJcezrz0c7VSXeNkits8nB5ZbDsCn1cC6+Mn9IbdMocyjdWtLdYTZFu5VHf/yZpD2BctWw+Un3zaSg/t0scHxnMMhkORFj3bBRdelkh79iophRs8xZmsjl32zQI1wQ=="
+    "js": true
   },
-  "licence": "",
-  "url": "https://github.com/GrantMoyer/passphrase-generator",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzOR25PG6eC40WZQvhia4tln4VEfafbuu+w1PQ88E4cJM6NZqZBxtJjA+0wMPHU+y2WlWMBgiEKanQYjy8JgNJSzUX3LvwzabnSb5EhJwyELvkqTlHupNhZXcQfCNc9awQSJT1wBnookq7r/CAHCPDaAS6EzdDKDOxTNiKYSp+hubln7bJwxgNfkL4WbapV1ZyJqU0Vcjl8btOoZpAWc0KtWqt893sBkuy8orcf8taChvtVWecW4zsBGRLKUG0WRN0t8zDpe+NHzL2JXyA/e44gahqbLuwXucg6zYGzFGxvKQAdNlQ/+tcBQ7nNUo13RahKpGGJVrzzDwVDcdJL0H8wIDAQAB",
-  "license": "MIT"
+  "license": "MIT",
+  "url": "https://github.com/jkchen2/passphrase-generator",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvSYXuz4hnFwYKu8+leS9rK9/uOdOiLfAYTcWehHG5t8qz9h29Tk9n3LucYx0LduGrCGftoIds2jlSs1ACDHUzz2W/O/g11jrKjgBffBkVrpzO5ovyUZSTU2yoDHaeYzF8rhQIEI8iybqd/bAi6vMvL6LB/sJneasfESjunszoOnpjIIHqZcwy4E6nxU/pg2kcDktwbMaYFBpYCTnznNi6SSw6qyJmcMJIwFEGalaSFvR/J/htabEoeKWl9mE0ubLERE47YRmdm4xLpzdJkHMJeSBj5oC7eE7MVh7vMJ/YYmaZV4og4JEUzmWUi2Ns8eZeXk4WunkTUb4B9gPOU9t9wIDAQAB"
 }
