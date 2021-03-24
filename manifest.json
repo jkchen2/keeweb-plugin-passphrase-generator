@@ -9,9 +9,9 @@
     "url": "https://github.com/GrantMoyer"
   },
   "resources": {
-    "js": "sUDWUvlJqBcWePwp9WCQH6vxcCTu1nC24pb083dRPHdTWIAgr4csc2p/46eJ5jvVIdRs9c2+RktfcTIKUj2BCi6+ghW2a4zAYvaocAt0ivSm+DNAOD5H5Q8ksPxKF0ZXLy+IkarfSC8qy/NUZ8lLvf0XijMTThr7HyCgHBTByLvcZ8v8+Qo5SX46TPg5WY1RtuGBUx1OjlqsYa4n+UX4by2RLEoIaPSMGRjNGH6a9x3dQ6k3HMqbXDWjd+zODN9fwFclRnmyCDJzUWPzQFYO5TrEarrbMiPU81Gi8cip/a9GlNrRp2+ocFS5+7R47XypL6T4i2hnDAcQX9v7rt/39w=="
+    "js": true
   },
   "license": "MIT",
-  "url": "https://github.com/jkchen2/passphrase-generator",
-  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAvSYXuz4hnFwYKu8+leS9rK9/uOdOiLfAYTcWehHG5t8qz9h29Tk9n3LucYx0LduGrCGftoIds2jlSs1ACDHUzz2W/O/g11jrKjgBffBkVrpzO5ovyUZSTU2yoDHaeYzF8rhQIEI8iybqd/bAi6vMvL6LB/sJneasfESjunszoOnpjIIHqZcwy4E6nxU/pg2kcDktwbMaYFBpYCTnznNi6SSw6qyJmcMJIwFEGalaSFvR/J/htabEoeKWl9mE0ubLERE47YRmdm4xLpzdJkHMJeSBj5oC7eE7MVh7vMJ/YYmaZV4og4JEUzmWUi2Ns8eZeXk4WunkTUb4B9gPOU9t9wIDAQAB"
+  "url": "https://github.com/jkchen2/keeweb-plugin-passphrase-generator",
+  "publicKey": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAzfhxeWOXnLPnx9uexxP4dCvNwQJIkxCqcbUs3nJLy9DrQQp9C12kD7Rq4Jk6pycEOW9i51Qq8AU8RN3jRaLbRofv1kdOvycmvwgmZSRoiyeURsNjXVNWldvxFDg3GPREM+V1OlL35SFHCha/8TGAKMJjRhnAKAhNYQKtW2a3qpHci8TFYhM+InuYYq3N9tM1eZyCqFv+qqKBmtH3WUES5hN8kuv1cInlfXVNMBomQKUSGYoxt9+ZK2rRbZh0pwfSSz+h4x/DAsdFu4mgDhFenyBvvDdg0w3s+2nVE4uxPms/Cv7g7guPcZqNE6cGcvngg21Pac+YJxbZN2mk/SozTQIDAQAB"
 }
